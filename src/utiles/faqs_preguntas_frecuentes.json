@@ -1,0 +1,147 @@
+[
+  {
+    "id": "faq_general_001",
+    "pregunta": "¿Cuál es la duración prevista en años de las carreras en los planes 2026?",
+    "respuesta": "La duración prevista en los planes es de 4 años."
+  },
+  {
+    "id": "faq_general_002",
+    "pregunta": "¿Puedo cambiarme voluntariamente del Plan 2019 al Plan 2026?",
+    "respuesta": "Sí. Los estudiantes ingresados hasta 2025 pueden optar por cambiarse al Plan 2026 al reinscribirse en 2026. La decisión es irreversible. El cambio de plan de estudios se realiza completando este formulario: https://fce.uncuyo.edu.ar/guia_tramites/tramite/22"
+  },
+  {
+    "id": "faq_general_003",
+    "pregunta": "¿Qué pasa con las materias que ya aprobé en el Plan 2019?",
+    "respuesta": "Las materias aprobadas se reconocen por equivalencia según la tabla plan origen–plan destino. Si no tienen equivalencia directa, en algunos casos se computan como optativas."
+  },
+  {
+    "id": "faq_general_004",
+    "pregunta": "¿Se conservan las regularidades obtenidas en el Plan 2019?",
+    "respuesta": "Sí. Las regularidades se mantienen en los espacios equivalentes del Plan 2026 durante su plazo de vigencia."
+  },
+  {
+    "id": "faq_general_005",
+    "pregunta": "¿Desde cuándo se computan los aplazos y el rendimiento académico mínimo?",
+    "respuesta": "Desde el ciclo académico en el que el estudiante opta por el cambio al Plan 2026. Es decir comienzan a contarse desde cero."
+  },
+  {
+    "id": "faq_general_006",
+    "pregunta": "¿Desde cuándo se cuenta el plazo máximo para recibirme?",
+    "respuesta": "El plazo máximo de egreso comienza a contarse desde el año en que se realiza el cambio de plan."
+  },
+  {
+    "id": "faq_general_007",
+    "pregunta": "¿Me conviene cambiarme de plan de estudios?",
+    "respuesta": "Eso lo decide cada estudiante. Se recomienda utilizar el simulador para verificar las materias reconocidas y las que restan cursar. En el Plan 2026 hay materias nuevas sin equivalencia que solo podrán cursarse cuando se dicten."
+  },
+  {
+    "id": "faq_general_008",
+    "pregunta": "¿Cuándo me conviene cambiarme de plan de estudios?",
+    "respuesta": "Depende de cada situación. En general, si estás cursando materias de 3.º o 4.º año conviene continuar en tu plan actual. Si sos estudiante de 1.º año o adeudás materias de 1.º año, suele convenir el cambio. Es importante simular tu situación académica."
+  },
+  {
+    "id": "faq_general_009",
+    "pregunta": "¿Voy a poder cursar materias de 2.º a 4.º año en el nuevo plan?",
+    "respuesta": "El plan de transición permite cursar en el Plan 2019 aquellas materias equivalentes en el Plan 2026, mientras no se dicten en el nuevo plan, siempre que se cumplan correlativas y promoción por año."
+  },
+  {
+    "id": "faq_general_010",
+    "pregunta": "¿Se aplica la promoción por año en el nuevo plan de estudios?",
+    "respuesta": "Sí. Los estudiantes que se cambien al Plan 2026 tendrán las mismas condiciones de cursado que quienes ingresan directamente a ese plan, sin flexibilidad en correlativas."
+  },
+  {
+    "id": "faq_general_011",
+    "pregunta": "¿Qué implica que me otorguen un título intermedio?",
+    "respuesta": "Solo indica que has aprobado las materias que reconocen un trayecto formativo académico."
+  },
+  {
+    "id": "faq_tit_001",
+    "pregunta": "¿Qué títulos otorga la carrera de Contador Público?",
+    "respuesta": "El título es Contador Público. Ahora mientras curses la carrera y cumplas con los requisitos establecidos podrás solicitar un reconocimiento de la formación que has hecho con un título intermedio Analista Universitario Contable."
+  },
+  {
+    "id": "faq_tit_002",
+    "pregunta": "¿Qué títulos otorga la carrera de Licenciado en Administración?",
+    "respuesta": "El título es Licenciado en Administración. Ahora mientras curses la carrera y cumplas con los requisitos establecidos podrás solicitar un reconocimiento de la formación que has hecho con un título intermedio Analista Universitario en Administración."
+  },
+  {
+    "id": "faq_tit_003",
+    "pregunta": "¿Qué títulos otorga la carrera de Licenciado en Economía?",
+    "respuesta": "El título es Licenciado en Economía. Ahora mientras curses la carrera y cumplas con los requisitos establecidos podrás solicitar un reconocimiento de la formación que has hecho con un título intermedio Analista Universitario en Economía y Finanzas."
+  },
+  {
+    "id": "faq_tit_004",
+    "pregunta": "¿Al cambiarme de carrera, logro el título intermedio de forma automática?",
+    "respuesta": "No. La obtención del título intermedio no es automática, sino que requiere el cumplimiento de requisitos específicos adicionales. También debe tenerse en cuenta que la aprobación de tales títulos intermedios se encuentra aún en proceso administrativo. Debe consultarse con Secretaría Académica los requisitos específicos para su obtención."
+  },
+  {
+    "id": "faq_tit_005",
+    "pregunta": "¿El título intermedio otorgado me permite la actuación como profesional?",
+    "respuesta": "No. El título intermedio reconoce solamente un trayecto de formación académica, pero no te habilita para el ejercicio profesional."
+  },
+  {
+    "id": "faq_cambio_006",
+    "pregunta": "¿Haciendo el cambio de plan van a poder hacer el recursado virtual de matemática del plan 19?",
+    "respuesta": "No, un estudiante que decide cambiarse de plan ya no tiene la materia MATEMATICA II que pertenece al plan 2019. Tiene que empezar a pensar las materias, las correlativas y las promociones del nuevo plan"
+  },
+  {
+    "id": "faq_cambio_007",
+    "pregunta": "Los estudiantes que permanezcan en el plan 19 podrán cursar materias equivalentes que se dicten en el plan 26 (y que ya no se dicten en el plan 19)",
+    "respuesta": "Si, siempre que se estén dictando en el plan 2026 una materia equivalente porque la materia que cursará será la materia del plan 2026 Debe saber que algunas materias pasaron de ser bimestrales a ser cuatrimestrales por ejemplo."
+  },
+  {
+    "id": "faq_cambio_008",
+    "pregunta": "Si teniendo regular o aprobada una materia que les da una equivalencia parcial en el plan 2026, pueden inscribirse a cursar esa materia",
+    "respuesta": "Si, no hay inconveniente, siempre que tenga las correlativas que pide el nuevo plan para cursar esa materia. No pierde la equivalencia parcial ya conseguida."
+  },
+  {
+    "id": "faq_cambio_009",
+    "pregunta": "Si teniendo aprobada una materia que les da equivalencia parcial a una del plan 26, van a poder acceder a los contenidos faltantes y cómo",
+    "respuesta": "Para acceder a la equivalencia parcial y a los contenidos a rendir lo mejor es hablar con la cátedra para que les indique los contenidos a rendir y la forma de prepararlo."
+  },
+  {
+    "id": "faq_cambio_010",
+    "pregunta": "Si cambian de plan, cuando pueden rendir los contenidos faltantes para obtener la equivalencia total de una materia",
+    "respuesta": "Van a poder rendir luego de cambiarse, en mesa de examen donde se rinda esa materia. El examen de equivalencia parcial se puede rendir hasta en dos oportunidades. Si rinde el examen de equivalencia parcial mal, no le cuenta como aplazo"
+  },
+  {
+    "id": "faq_cambio_011",
+    "pregunta": "Estando en plan 2026 puede cursar materias equivalentes del plan 2019 que aún no se dicten en el plan 26? hay excepciones, cuales?",
+    "respuesta": "Lo que tienen que saber es que al cambiarse de plan se aplican las reglas de juego del nuevo plan. Las reglas de juego son: correlativas del nuevo plan y régimen de promoción del nuevo plan. Las materias que aún no se dictan en el plan 2026 podrán cursarse con las materias equivalentes del plan 2019 siempre que se cumplan las correlativas que pide el nuevo plan. Hay casos de materias que en el nuevo plan no tienen ninguna equivalencia en el plan 2019, lo que hace que se tenga que esperar a que se dicten en el nuevo plan"
+  },
+  {
+    "id": "faq_cambio_012",
+    "pregunta": "Cuando se definirán las especificaciones sobre cómo obtener el título intermedio?",
+    "respuesta": "Se otorga el título intermedio según el plan de origen. Si el origen es el plan 2019, el título intermedio se otorga siempre que cumpla con los requisitos de tener aprobado los dos años, de haber transcurrido al menos los dos años del nuevo plan y de que se cuente con resolución ministerial. Si el origen es el plan 1998 aparte de lo anterior, se agrega el hecho de que debe rendir una prueba global que tomará la Dirección de Carrera para actualizar contenidos básicamente sobre tecnología."
+  },
+  {
+    "id": "faq_cambio_013",
+    "pregunta": "Un estudiante que quiera cambiar de carrera y no puede hacerlo entre carreras de plan 2019, como puede consultar cuanto tiempo tarda el cambio de carrera y plan y cuando puede cursar en el nuevo plan la nueva carrera?",
+    "respuesta": "El cambio de carrera es bastante rápido, solo que las equivalencias que se otorgan entre carreras de dos planes distintos suele demorar. No tanto como 7 meses, pero suele demorar un par de meses."
+  },
+  {
+    "id": "faq_cambio_014",
+    "pregunta": "Si un estudiante del plan 2019 quiere rendir una materia en febrero o marzo pero quiere cambiarse al Plan 26 ¿como procede?",
+    "respuesta": "Siga estos pasos, 1- Inscríbase para rendir la materia en el plan viejo, 2- Asegúrese de darse de baja de las materias a cursar en el plan viejo. 3- Complete el formulario del cambio de plan: https://fce.uncuyo.edu.ar/guia_tramites/tramite/22, 4- Revise a las 24 hs hábiles (aproximadamente) que ya debería estar realizado el cambio de plan y, entonces, podrá inscribirse a cursar las materias en el plan nuevo bajo el régimen de correlativas y de promoción del plan nuevo, 5- Si aprueba alguna materia con posterioridad al cambio de plan, debe avisar así se le reconocen las equivalencias en el nuevo plan."
+  },
+  {
+    "id": "faq_cambio_015",
+    "pregunta": "¿Cómo se pasan las regularidades en los cambios de planes?",
+    "respuesta": "Si el origen es el plan 2019, la regularidad mantiene su vencimiento de 14 mesas desde la fecha del cursado.\n\nSi el origen es el plan 1998, la regularidad dura 14 mesas desde la fecha de cursado, por ello, algunas materias que tenían vencimiento 31/3/26 (por el cierre del plan de estudios) pero fueron cursadas durante el 2025, retomarán su vencimiento de 14 mesas."
+  },
+  {
+  "id":"faq_general_012",
+  "pregunta":"¿Cuáles son las correlativas de los nuevos planes de estudio?",
+  "respuesta":"mas abajo tenes los enlaces a documentos de correlatividades"
+  },
+    {
+  "id":"faq_general_013",
+  "pregunta":"¿Cuáles son las materias de 2do a 4to que podría cursar si me cambio de plan de estudios?",
+  "respuesta":"mas abajo tenes los enlaces a los documentos de transicion para verificar que materias se pueden cursar"
+  },
+    {
+  "id":"faq_general_014",
+  "pregunta":"¿Tengo más dudas?",
+  "respuesta":"Seguí explorando las preguntas frecuentes, si las dudas persisten, escribí tu consulta lo más detallada posible con tus datos a apoyo.academico@fce.uncu.edu.ar"
+  }
+]

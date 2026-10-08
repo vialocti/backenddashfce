@@ -1,0 +1,152 @@
+### Licenciatura en Economía
+
+### Plan 1998 (LE98) → Plan 2026 (LE26)
+
+## Regimen para Aprobadas y/o Regularidad.
+
+## Equivalencias Total
+
+* **510402 – CÁLCULO I**
+   equivalencia otorgada por **3141 – CÁLCULO I**
+
+* **510403 – SISTEMAS INTEGRADOS DE INFORMACIÓN**
+   equivalencia otorgada por **3245 – ELEMENTOS DE CONTABILIDAD**
+
+* **510404 – INTRODUCCIÓN A LA ECONOMÍA**
+   equivalencia otorgada por **3142 – INTRODUCCIÓN A LA ECONOMÍA I**
+
+* **510405 – ÁLGEBRA LINEAL**
+   equivalencia otorgada por **3145 – ÁLGEBRA LINEAL**
+
+* **510406 – DERECHO PARA ECONOMISTAS**
+    equivalencia otorgada por **3143 – DERECHO PÚBLICO y 3444 - INTRODUCCION AL DERECHO PRIVADO**
+
+* **510407 – MICROECONOMÍA I**
+   equivalencia otorgada por **3144 – INTRODUCCIÓN A LA ECONOMÍA II**
+
+* **510408 – ADMINISTRACIÓN PARA ECONOMISTAS**
+   equivalencia otorgada por **3341 – ELEMENTOS DE ADMINISTRACIÓN (Funciones)**
+
+* **520401 – CÁLCULO II**
+   equivalencia otorgada por **3146 – CÁLCULO II**
+
+* **520402 – MATEMÁTICA FINANCIERA**
+   equivalencia otorgada por **3344 – CÁLCULO FINANCIERO**
+
+* **520403 – ESTADÍSTICA I**
+   equivalencia otorgada por **3243 – ESTADÍSTICA I**
+
+* **520404 – MACROECONOMÍA I**
+   equivalencia otorgada por **3242 – MACROECONOMÍA I**
+
+* **520406 – MICROECONOMÍA II**
+   equivalencia otorgada por **3241 – MICROECONOMÍA I**
+
+* **530401 – PENSAMIENTO ECONÓMICO MUNDIAL**
+   equivalencia otorgada por **3446 – HISTORIA ECONÓMICA I**
+
+* **530402 – ECONOMETRÍA I**
+   equivalencia otorgada por **3343 – ECONOMETRÍA I**
+
+* **530403 – MICROECONOMÍA III**
+   equivalencia otorgada por **3244 – MICROECONOMÍA II**
+
+* **530404 – ANÁLISIS Y PROYECCIÓN DE ESTADOS CONTABLES**
+   equivalencia otorgada por **3245 – ELEMENTOS DE CONTABILIDAD**
+
+* **530405 – FINANZAS PÚBLICAS**
+   equivalencia otorgada por **3342 – FINANZAS PÚBLICAS**
+
+* **530406 – ANÁLISIS ECONÓMICO DE PROYECTOS**
+   equivalencia otorgada por **3349 – ANÁLISIS ECONÓMICO DE PROYECTOS I**
+
+* **530407 – ECONOMÍA MONETARIA**
+   equivalencia otorgada por **3346 – ECONOMÍA MONETARIA**
+
+* **540401 – ECONOMÍA INTERNACIONAL**
+   equivalencia otorgada por **3441 – ECONOMÍA INTERNACIONAL REAL**
+
+* **540402 – DESARROLLO ECONÓMICO**
+   equivalencia otorgada por **3742 – DESARROLLO ECONÓMICO**
+
+* **540403 – MACROECONOMÍA II**
+   equivalencia otorgada por **3443 – MACROECONOMÍA II**
+
+* **540404 – POLÍTICA ECONÓMICA ARGENTINA**
+   equivalencia otorgada por **3541 – POLÍTICA ECONÓMICA ARGENTINA**
+
+* **540405 – ORGANIZACIÓN INDUSTRIAL**
+   equivalencia otorgada por **3741 – ORGANIZACIÓN INDUSTRIAL I**
+
+* **540406 – TALLER DE APLICACIÓN II**
+   equivalencia otorgada por **3542 – TRABAJO DE INVESTIGACIÓN**
+
+* **570401 – ECONOMETRÍA II**
+   equivalencia otorgada por **3777 – ECONOMETRÍA II**
+
+* **570402 – ECONOMÍA AMBIENTAL**
+   equivalencia otorgada por **3745 – ECONOMÍA DE LOS RECURSOS NATURALES Y MEDIO AMBIENTE**
+
+* **570403 – ECONOMÍA DE LAS POLÍTICAS SOCIALES**
+   equivalencia otorgada por **3786 – ECONOMÍA DE LAS POLÍTICAS SOCIALES**
+
+* **570404 – ECONOMÍA DE LOS SERVICIOS PÚBLICOS**
+   equivalencia otorgada por **3747 – ECONOMÍA DE LOS SERVICIOS PÚBLICOS**
+
+* **570405 – ECONOMÍA INTERNACIONAL MONETARIA**
+   equivalencia otorgada por **3748 – ECONOMÍA INTERNACIONAL MONETARIA**
+
+* **570406 – ECONOMÍA LABORAL**
+   equivalencia otorgada por **3746 – ECONOMÍA LABORAL**
+
+* **570407 – ECONOMÍA MATEMÁTICA**
+   equivalencia otorgada por **3778 – ECONOMÍA MATEMÁTICA**
+
+* **570408 – ECONOMÍA REGIONAL**
+   equivalencia otorgada por **3770 – GEOGRAFÍA ECONÓMICA Y ANÁLISIS REGIONAL**
+
+* **570409 – FILOSOFÍA POLÍTICA Y SOCIAL PARA ECONOMISTAS**
+   equivalencia otorgada por **3345 – FILOSOFÍA**
+
+* **570410 – HISTORIA ECONÓMICA MUNDIAL**
+   equivalencia otorgada por **3749 – HISTORIA ECONÓMICA II**
+
+* **570411 – MACROFINANZAS**
+   equivalencia otorgada por **3773 – ECONOMÍA Y TÉCNICA BURSÁTIL**
+
+* **570412 – TEORÍA DE JUEGOS**
+   equivalencia otorgada por **3788 – TEORÍA DE LOS JUEGOS Y ECONOMÍA DE LA INFORMACIÓN**
+
+* **570413 – TÓPICOS AVANZADOS DE EVALUACIÓN SOCIOECONÓMICA DE PROYECTOS**
+   equivalencia otorgada por **3743 – ANÁLISIS ECONÓMICO DE PROYECTOS II**
+  
+* ** ING - Certifica Inglés**
+ equivalencia otorgada por **3247 - INGLES TECNICO I y 3348 - INGLES TECNICO II* 
+
+## Actividades Plan LE98 que No otorgan Equivalencia en Actividad alguna del Plan LE26
+
+* **3246 ESTADISTICA II** 
+* **3784 FINANZAS DE EMPRESAS**
+* **3147 COMPUTACION**
+* **3445 METODOLOGIA BASICA DE INVESTIGACION** 
+* **3787 ECONOMETRÍA III**
+* **3774 ECONOMÍA BANCARIA** 
+* **3772 ORGANIZACIÓN INDUSTRIAL II** 
+* **3785 COSTOS Y PRESUPUESTOS** 
+* **3782 LEGISLACIÓN Y TÉCNICA IMPOSITIVA**
+* **3783 OPERATORIA DEL COMERCIO EXTERIOR**
+* **3781 ADMINISTRACIÓN TRIBUTARIA** 
+* **3775 ANÁLISIS DE MERCADOS**
+* **3771 ANÁLISIS ECONÓMICO CUALITATIVO**
+* **3779 GESTIÓN FINANCIERA DEL SECTOR PÚBLICO**
+* **3780 ADMINISTRACIÓN Y CONTABILIDAD DEL SECTOR PÚBLICO**
+* **3744 ANÁLISIS ECONÓMICO DE PROYECTOS III**
+
+## Actividades de plan LE26 que No puede ser otorgada por alguna Actividad de plan LE98
+
+* **520405 FINANZAS Y MERCADO DE CAPITALES** 
+* **520408 TALLER DE APLICACION I** 
+* **520407 ESTADISTICA II** 
+* **510401 FUNDAMENTOS DE ECONOMIA** 
+* **AFS Certifica Actividad Física Saludable** 
+* **PSE Certifica Práctica Socioeducativa**

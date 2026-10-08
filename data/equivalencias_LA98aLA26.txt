@@ -1,0 +1,168 @@
+### Licenciatura en Administración
+
+### Plan 1998 (LA98) → Plan 2026 (LA26)
+
+## Regimen para Aprobadas y/o Regularidad.
+
+## Equivalencias Total
+
+
+* **510301 – SISTEMAS INTEGRADOS DE INFORMACIÓN**
+ equivalencia otorgada por **3134 – ELEMENTOS DE CONTABILIDAD**
+
+* **510302 – PRINCIPIOS Y APLICACIONES DE ADMINISTRACIÓN**
+ equivalencia otorgada por **3133 – ADMINISTRACIÓN I (Introducción)**
+
+* **510303 – PRINCIPIOS DE MICRO Y MACROECONOMÍA**
+ equivalencia otorgada por **3132 – INTRODUCCIÓN A LA ECONOMÍA**
+ 
+* ** 510304 - MATEMÁTICA APLICADA A LA ADMINISTRACIÓN**
+ equivalencia otorgada por **3131 - CALCULO I Y 3139 - ALGEBRA LINEAL**
+
+* **510305 – DERECHO PRIVADO**
+ equivalencia otorgada por **3135 – INTRODUCCIÓN AL DERECHO PRIVADO**
+
+* **510306 – FUNDAMENTOS DE MARKETING**
+ equivalencia otorgada por **3232 – COMERCIALIZACIÓN I**
+
+* **510307 – ADMINISTRACIÓN DE PERSONAS**
+ equivalencia otorgada por **3362 – ADMINISTRACIÓN DE PERSONAL I**
+
+* **520301 – ADMINISTRACIÓN: ESTRUCTURAS Y ESTRATEGIAS**
+ equivalencia otorgada por **3331 – ADMINISTRACIÓN II (Funciones)**
+
+* **520302 – COSTOS PARA DECISIONES**
+ equivalencia otorgada por **3231 – COSTOS PARA DECISIONES**
+
+* **520303 – ESTADÍSTICA APLICADA A LA ADMINISTRACIÓN**
+ equivalencia otorgada por **3261 – ESTADÍSTICA I**
+
+* **520304 – DERECHO CONSTITUCIONAL Y ADMINISTRATIVO**
+ equivalencia otorgada por **3234 – DERECHO PÚBLICO**
+
+* **520305 – ADMINISTRACIÓN FINANCIERA I**
+ equivalencia otorgada por **3235 – ADMINISTRACIÓN FINANCIERA I**
+
+* **520306 – ADMINISTRACIÓN DE OPERACIONES**
+ equivalencia otorgada por **3236 – ADMINISTRACIÓN DE OPERACIONES I**
+
+* **520307 – RÉGIMEN IMPOSITIVO**
+ equivalencia otorgada por **3339 – RÉGIMEN IMPOSITIVO**
+
+* **520308 – MATEMÁTICA FINANCIERA**
+ equivalencia otorgada por **3334 – CÁLCULO FINANCIERO**
+
+* **520309 – PRÁCTICA LABORAL**
+ equivalencia otorgada por **3361 – PRÁCTICA DE TRABAJO**
+
+* **530301 – INVESTIGACIÓN DE MERCADOS**
+ equivalencia otorgada por **3437 – INVESTIGACIÓN DE MERCADO**
+
+* **530302 – MACROECONOMÍA**
+ equivalencia otorgada por **3335 – MACROECONOMÍA**
+
+* **530303 – DERECHO LABORAL PARA ADMINISTRACIÓN DE PERSONAS**
+ equivalencia otorgada por **3760 – ADMINISTRACIÓN DE PERSONAL II**
+
+* **530304 – ADMINISTRACIÓN DEL SECTOR PÚBLICO**
+ equivalencia otorgada por **3363 – ADMINISTRACIÓN DEL SECTOR PÚBLICO**
+
+* **530305 – DISEÑO Y GESTIÓN DE ORGANIZACIONES**
+ equivalencia otorgada por **3433 – ANÁLISIS ORGANIZACIONAL**
+
+* **530306 – MARKETING ESTRATÉGICO**
+ equivalencia otorgada por **3332 – COMERCIALIZACIÓN II**
+
+* **530307 – COMPORTAMIENTO HUMANO EN LAS ORGANIZACIONES**
+ equivalencia otorgada por **3237 – COMPORTAMIENTO ORGANIZACIONAL**
+
+* **540301 – ADMINISTRACIÓN FINANCIERA II**
+ equivalencia otorgada por **3432 – ADMINISTRACIÓN FINANCIERA II**
+
+* **540302 – TRABAJO FINAL INTEGRADOR**
+ equivalencia otorgada por **3436 – TRABAJO DE INVESTIGACIÓN**
+
+* **540303 – INTELIGENCIA ESTRATÉGICA Y CREACIÓN DE VALOR**
+ equivalencia otorgada por **Sin equivalencia (Plan 1998)**
+
+* **540304 – ADMINISTRACIÓN ESTRATÉGICA**
+ equivalencia otorgada por **3435 – ESTRATEGIAS DE NEGOCIOS**
+
+* **540305 – PRÁCTICA PROFESIONAL**
+ equivalencia otorgada por **3361 – PRÁCTICA DE TRABAJO**
+
+* **570301 – INVERSIONES FINANCIERAS**
+ equivalencia otorgada por **3768 – INVERSIONES FINANCIERAS**
+
+* **570302 – ADMINISTRACIÓN DE ENTIDADES FINANCIERAS**
+ equivalencia otorgada por **3737 – ADMINISTRACIÓN DE ENTIDADES FINANCIERAS**
+
+* **570303 – ADMINISTRACIÓN DE PROYECTOS**
+ equivalencia otorgada por **3769 – ADMINISTRACIÓN DE PROYECTOS**
+
+* **570304 – NEGOCIACIÓN**
+ equivalencia otorgada por **3438 – NEGOCIACIÓN**
+
+* **570305 – ÉTICA Y NEGOCIOS**
+ equivalencia otorgada por **Sin equivalencia (Plan 1998)**
+
+* **570306 – COMUNICACIÓN PUBLICITARIA**
+ equivalencia otorgada por **3767 – PUBLICIDAD Y PROMOCIÓN**
+
+* **570307 – MARKETING DIGITAL**
+ equivalencia otorgada por **Sin equivalencia (Plan 1998)**
+
+* **570308 – OPERATORIA DE COMERCIO EXTERIOR**
+ equivalencia otorgada por **3764 – OPERATORIA DE COMERCIO EXTERIOR**
+
+* **570312 – GESTIÓN DE LA CALIDAD**
+ equivalencia otorgada por **3736 – GESTIÓN DE LA CALIDAD**
+
+* **570313 – FILOSOFÍA POLÍTICA Y SOCIAL PARA ADMINISTRADORES**
+ equivalencia otorgada por **3337 – FILOSOFÍA**
+
+* **570314 – FINANZAS DEL SECTOR PÚBLICO**
+ equivalencia otorgada por **3761 – FINANZAS DEL SECTOR PÚBLICO**
+
+* **570315 – ADMINISTRACIÓN DE LA SALUD**
+ equivalencia otorgada por **3762 – ADMINISTRACIÓN DE LA SALUD**
+
+* **570316 – EMPRESAS DE IMPACTO**
+ equivalencia otorgada por **4750 – EMPRESAS DE IMPACTO**
+
+* **570317 – MEDICIÓN DE IMPACTO**
+ equivalencia otorgada por **4751 – MEDICIÓN DE IMPACTO**
+
+* **570319 – ADMINISTRACIÓN ESTRATÉGICA DE OPERACIONES**
+ equivalencia otorgada por **3336 – ADMINISTRACIÓN DE OPERACIONES II**
+
+* **570320 – INVESTIGACIÓN OPERATIVA**
+ equivalencia otorgada por **3739 – INVESTIGACIÓN OPERATIVA**
+
+* ** ING - Certifica Inglés**
+ equivalencia otorgada por **3138 - INGLES TECNICO I y 3229 - INGLES TECNICO II** 
+
+##Equivalencias Parciales
+
+* **510304 - MATEMÁTICA APLICADA A LA ADMINISTRACIÓN**
+ se otorga equivalencia parcial si  alguna de estas dos actividades no esta aprobada ** 3131 - CALCULO I , 3139 - ALGEBRA LINEA, debe rendir complemento**	
+
+## Actividades Plan LA98 que No otorgan Equivalencia en Actividad alguna del Plan LA26
+
+* **3137 COMPUTACION**
+* **3238 METODOLOGIA DE DECISION**
+* **3735 EMPRESAS FAMILIARES**
+* **3763 ADMINISTRACION TRIBUTARIA**
+* **3754 CONTROL DE GESTIÓN**
+* **3731 CALCULO II**
+* **3732 ESTADÍSTICA II**
+
+## Actividades de plan LA26 que No puede ser otorgada por alguna Actividad del plan LA98
+
+* **570310 ADMINISTRACION DEL CAMBIO**
+* **570309 ADMINISTRACION DE CAPACITACION Y COMPENSACIONES**
+* **570321 DERECHO CONCURSAL PARA ADMINISTRADORES**
+* **570311 ADMINISTRACIÓN DE REMUNERACIONES: CASUÍSTICA**
+* **570318 NORMATIVA Y DESARROLLO DE ECOSISTEMAS DE IMPACTO**
+* **PSE Certifica la Práctica Socioeducativa**
+* **AFS Certifica la Actividad Física Saludable**

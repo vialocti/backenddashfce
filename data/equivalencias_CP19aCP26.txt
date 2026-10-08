@@ -1,0 +1,150 @@
+### Carrera: Contador Público
+
+### Plan origen: **CP19** → Plan destino: **CP26**
+
+## Regimen para Aprobadas y/o Regularidad.
+
+## Equivalencias Total.
+
+* **510201 – DERECHO PUBLICO**
+  equivalencia otorgada por **4121 - DERECHO PUBLICO I y 4428 - DERECHO PUBLICO II**
+  
+* **510202 – SISTEMAS Y TECNOLOGÍAS DE INFORMACIÓN I**
+  equivalencia otorgada por **4127 - TECNOLOGIA DE INFORMACION I y 4222 - TECNOLOGIA DE INFORMACION II**
+  
+* **510203 – INTRODUCCIÓN A LA ECONOMÍA**
+   equivalencia otorgada por **4123 – INTRODUCCIÓN A ECONOMÍA**
+
+* **510204 – COMPORTAMIENTO ORGANIZACIONAL**
+   equivalencia otorgada por **4323 – COMPORTAMIENTO ORGANIZACIONAL**
+
+* **510205 – ADMINISTRACIÓN**
+   equivalencia otorgada por **4129 – ADMINISTRACIÓN I**
+  
+* **510206 – MATEMÁTICA APLICADA A LA GESTIÓN CONTABLE**
+  equivalencia otorgada por **4122 - MATEMATICA I y 4128 - MATEMATICA II** 
+
+* **510207 – FUNDAMENTOS DE CONTABILIDAD**
+   equivalencia otorgada por **4124 – FUNDAMENTOS DE CONTABILIDAD**
+
+* **520201 – CONTABILIDAD INTERMEDIA**
+   equivalencia otorgada por **4221 – CONTABILIDAD I (Intermedia)**
+
+* **520202 – RÉGIMEN DEL TRABAJO Y SEGURIDAD SOCIAL**
+   equivalencia otorgada por **4225 – DERECHO LABORAL**
+
+* **520203 – ESTADÍSTICA**
+   equivalencia otorgada por **4226 – ESTADÍSTICA I**
+
+* **520204 – FILOSOFÍA Y ÉTICA**
+   equivalencia otorgada por **4424 – FILOSOFÍA**
+  
+* **520205 – DERECHO CIVIL Y COMERCIAL**
+  equivalencia otorgada por **4125 - DERECHO PRIVADO I y 4326 - DERECHO PRIVADO III**
+  
+* **520206 – CONTABILIDAD DE COSTOS**
+   equivalencia otorgada por **4224 – CONTABILIDAD II (Costo)**
+
+* **520207 – MACROECONOMÍA**
+   equivalencia otorgada por **4328 – MACROECONOMÍA**
+
+* **520208 – MATEMÁTICA FINANCIERA**
+   equivalencia otorgada por **4228 – MATEMÁTICA FINANCIERA**
+
+* **530201 – CONTABILIDAD SUPERIOR**
+   equivalencia otorgada por **4324 – CONTABILIDAD III (Superior)**
+
+* **530202 – SISTEMAS Y TECNOLOGÍAS DE INFORMACIÓN II**
+   equivalencia otorgada por **4321 – SISTEMAS Y TECNOLOGÍAS DE INFORMACIÓN**
+
+* **530203 – DERECHO SOCIETARIO**
+   equivalencia otorgada por **4223 – DERECHO PRIVADO II**
+
+* **530204 – COSTOS PARA LA GESTIÓN**
+   equivalencia otorgada por **4426 – COSTOS PARA LA GESTIÓN**
+
+* **530205 – CONTABILIDAD AVANZADA**
+   equivalencia otorgada por **4421 – CONTABILIDAD IV (Avanzada)**
+
+* **530206 – TEORÍA Y TÉCNICA IMPOSITIVA I**
+   equivalencia otorgada por **4329 – TEORÍA Y TÉCNICA IMPOSITIVA I**
+
+* **530207 – DERECHO SUCESORIO**
+   equivalencia otorgada por **4423 – DERECHO SUCESORIO**
+
+* **540201 – TEORÍA Y TÉCNICA IMPOSITIVA II**
+   equivalencia otorgada por **4425 – TEORÍA Y TÉCNICA IMPOSITIVA II**
+  
+* **540202 – CONTROL ESTRATÉGICO Y GESTIÓN FINANCIERA**
+ equivalencia otorgada por **4427 - ADMINISTRACION FINANCIERA y 4529 - CONTROL DE GESTION**
+
+* **540203 – AUDITORÍA**
+   equivalencia otorgada por **4521 – AUDITORÍA**
+
+* **540204 – DERECHO CONCURSAL**
+   equivalencia otorgada por **4524 – DERECHO CONCURSAL**
+  
+* **540205 – TRABAJO FINAL INTEGRADOR**
+ equivalencia otorgada por **4520 - METODOLOGIA Y TRABAJO DE INVESTIGACION y 4528 - TESIS FINAL DE GRADO**
+  
+* **540206 – ADMINISTRACIÓN FINANCIERA DEL SECTOR PÚBLICO**
+   equivalencia otorgada por **4522 – ADMINISTRACIÓN FINANCIERA DEL SECTOR PÚBLICO**
+
+* **540207 – PRÁCTICA PROFESIONAL**
+   equivalencia otorgada por **4526 – PRÁCTICA PROFESIONAL**
+
+* **570201 – TALLER DE INTEGRACIÓN SI/TI**
+   equivalencia otorgada por **4320 – TALLER DE INTEGRACIÓN SI/TI**
+
+* **570202 – OPERATORIA DE COMERCIO EXTERIOR**
+   equivalencia otorgada por **4723 – OPERATORIA DE COMERCIO EXTERIOR**
+
+* **570203 – SEGURIDAD DE SISTEMAS DE INFORMACIÓN**
+   equivalencia otorgada por **4724 – SEGURIDAD DE SISTEMAS DE INFORMACIÓN**
+
+* **570204 – FINANZAS PÚBLICAS**
+   equivalencia otorgada por **4322 – FINANZAS PÚBLICAS**
+
+* **570205 – CONTABILIDAD INTERNACIONAL**
+   equivalencia otorgada por **4721 – CONTABILIDAD V (Internacional)**
+
+* **AFS – Certifica Actividad Física Saludable**
+   equivalencia otorgada por **4120 – PRÁCTICA DE ACTIVIDAD FÍSICA SALUDABLE**
+
+* **PSE – Certifica la Práctica Socioeducativa**
+   equivalencia otorgada por **4429 – PRÁCTICA SOCIOEDUCATIVA**
+  
+* **ING - Certifica Inglés**
+  equivalencia otorgada por **4227 - INGLES I y 4229 - INGLES II o 4327 INGLES III* 
+
+  
+##Equivalencias Parciales
+
+* **540202 – CONTROL ESTRATÉGICO Y GESTIÓN FINANCIERA**
+ equivalencia parcial por  ** APROBADA : 4427 - ADMINISTRACION FINANCIERA, 4529 - debe rendir los temas complementarios de CONTROL DE GESTION**
+ 
+* **520205 – DERECHO CIVIL Y COMERCIAL**
+  equivalencia parcial por **APROBADA: 4125 - DERECHO PRIVADO I,   debe rendir los temas complementarios de DERECHO PRIVADO III**
+  
+* **510201 – DERECHO PUBLICO**
+  equivalencia parcial por **APROBADA: 4121 - DERECHO PUBLICO I,   deberá rendir los temas complementarios de DERECHO PUBLICO II.**
+  
+* **510206 – MATEMÁTICA APLICADA A LA GESTIÓN CONTABLE**
+  equivalencia parcial por ** APROBADA:4122 - MATEMATICA I,  debe rendir los temas correspondientes a MATEMATICA II** 
+
+* **510206 – MATEMÁTICA APLICADA A LA GESTIÓN CONTABLE**
+  equivalencia parcial por **APROBADA: 4128 - MATEMATICA II,  debe rendir los temas correspondientes a MATEMATICA I** 
+  
+## Actividades Plan CP19 que No otorgan Equivalencia en Actividad alguna del Plan CP26
+
+* **4722 SINDICATURA DE EMPRESAS PUBLICAS Y PRIVADAS**
+* **4220 TALLER DE INTEGRACION I**
+* **4420 TALLER DE INTEGRACION II**
+
+## Actividades de plan CP26 que No puede ser otorgada por alguna Actividad del plan CP19
+
+* **520209 PRÁCTICA LABORAL I** 
+
+NOTA:
+* **4127 TECNOLOGIA DE INFORMACION I, por si sola no ofrece equivalencia en CP26, ni total ni parcial.
+  	

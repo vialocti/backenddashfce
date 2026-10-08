@@ -1,0 +1,44 @@
+{
+  "name": "backenddb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js --exec babel-node",
+    "build": "rm -rf dist && babel src/ --out-dir dist --copy-files",
+    "start": "node dist/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openai/agents": "^0.3.4",
+    "@openai/guardrails": "^0.2.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "csv-parse": "^7.0.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.1",
+    "express-session": "^1.18.1",
+    "fast-csv": "^5.0.2",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.0",
+    "openai": "^4.87.3",
+    "pdfkit": "^0.17.2",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "puppeteer": "^24.34.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.27.0",
+    "@babel/core": "^7.26.10",
+    "@babel/node": "^7.19.1",
+    "@babel/plugin-transform-runtime": "^7.19.1",
+    "@babel/preset-env": "^7.26.9",
+    "nodemon": "^3.1.14"
+  }
+}

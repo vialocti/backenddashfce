@@ -1,0 +1,161 @@
+### Licenciatura en Economía
+
+### Plan origen: **LE19** → Plan destino: **LE26**
+
+## Regimen para Aprobadas y/o Regularidad.
+
+## Equivalencias Total
+
+* **510401 – FUNDAMENTOS DE ECONOMIA**
+  equivalencia otorgada por **4148 – FUNDAMENTOS DE ECONOMIA**
+
+* **510402 – CALCULO I**
+  equivalencia otorgada por **4145 – MATEMATICA II**
+  
+* **510403 - SISTEMAS INTEGRADOS DE INFORMACION**
+ equivalencia otorgada por **4144 - FUNDAMENTOS DE CONTABILIDAD y 4240 - TECNOLOGIA DE INFORMACION II  y 4340 - ESTADOS CONTABLES **
+
+* **510404 – INTRODUCCION A LA ECONOMIA**
+  equivalencia otorgada por **4142 – INTRODUCCION A ECONOMIA**
+
+* **510405 – ALGEBRA LINEAL**
+  equivalencia otorgada por **4141 – MATEMATICA I**
+  
+* **510406 - DERECHO PARA ECONOMISTAS**
+ equivalencia otorgada por **4143 - DERECHO PUBLICO I y 4344 - INTRODUCCION A DERECHO PRIVADO**
+
+* **510407 – MICROECONOMIA I**
+  equivalencia otorgada por **4241 – MICROECONOMIA I**
+
+* **510408 – ADMINISTRACION PARA ECONOMISTAS**
+  equivalencia otorgada por **4149 – ADMINISTRACION I**
+
+* **520401 – CALCULO II**
+  equivalencia otorgada por **4246 – MATEMATICA III**
+
+* **520402 – MATEMATICA FINANCIERA**
+  equivalencia otorgada por **4249 – MATEMATICA FINANCIERA**
+
+* **520403 – ESTADISTICA I**
+  equivalencia otorgada por **4243 – ESTADISTICA I**
+
+* **520404 – MACROECONOMIA I**
+  equivalencia otorgada por **4242 – MACROECONOMIA I**
+
+* **520406 – MICROECONOMIA II**
+  equivalencia otorgada por **4244 – MICROECONOMIA II**
+
+* **520407 – ESTADISTICA II**
+  equivalencia otorgada por **4347 – ESTADISTICA II**
+
+* **520408 – TALLER DE APLICACION I**
+  equivalencia otorgada por **4440 – TALLER DE INTEGRACION**
+
+* **530401 – PENSAMIENTO ECONOMICO MUNDIAL**
+  equivalencia otorgada por **4546 – HISTORIA ECONOMICA I**
+
+* **530402 – ECONOMETRIA I**
+  equivalencia otorgada por **4343 – ECONOMETRIA I**
+
+* **530403 – MICROECONOMIA III**
+  equivalencia otorgada por **4348 – MICROECONOMIA III**
+
+* **530404 – ANALISIS Y PROYECCION DE ESTADOS CONTABLES**
+  equivalencia otorgada por **4340 – ESTADOS CONTABLES**
+
+* **530405 – FINANZAS PUBLICAS**
+  equivalencia otorgada por **4342 – FINANZAS PUBLICAS**
+
+* **530406 – ANALISIS ECONOMICO DE PROYECTOS**
+  equivalencia otorgada por **4449 – ANALISIS ECONOMICO DE PROYECTOS I**
+
+* **530407 – ECONOMIA MONETARIA**
+  equivalencia otorgada por **4346 – ECONOMIA MONETARIA**
+
+* **540401 – ECONOMIA INTERNACIONAL**
+  equivalencia otorgada por **4441 – ECONOMIA INTERNACIONAL**
+
+* **540402 – DESARROLLO ECONOMICO**
+  equivalencia otorgada por **4742 – DESARROLLO ECONOMICO**
+
+* **540403 – MACROECONOMIA II**
+  equivalencia otorgada por **4443 – MACROECONOMIA II**
+
+* **540404 – POLITICA ECONOMICA ARGENTINA**
+  equivalencia otorgada por **4541 – POLITICA ECONOMICA ARGENTINA**
+
+* **540405 – ORGANIZACION INDUSTRIAL**
+  equivalencia otorgada por **4447 – ORGANIZACION INDUSTRIAL I**
+
+* **540406 – TALLER DE APLICACION II**
+  equivalencia otorgada por **4542 – TESIS FINAL DE GRADO**
+
+* **570401 – ECONOMETRIA II**
+  equivalencia otorgada por **4787 – ECONOMETRIA II**
+
+* **570402 – ECONOMIA AMBIENTAL**
+  equivalencia otorgada por **4745 – ECONOMIA AMBIENTAL**
+
+* **570403 – ECONOMIA DE LAS POLITICAS SOCIALES**
+  equivalencia otorgada por **4786 – ECONOMIA DE LAS POLITICAS SOCIALES**
+
+* **570404 – ECONOMIA DE LOS SERVICIOS PUBLICOS**
+  equivalencia otorgada por **4747 – ECONOMIA DE LOS SERVICIOS PUBLICOS**
+
+* **570405 – ECONOMIA INTERNACIONAL MONETARIA**
+  equivalencia otorgada por **4748 – ECONOMIA INTERNACIONAL MONETARIA**
+
+* **570406 – ECONOMIA LABORAL**
+  equivalencia otorgada por **4746 – ECONOMIA LABORAL**
+
+* **570407 – ECONOMIA MATEMATICA**
+  equivalencia otorgada por **4448 – OPTIMIZACION DINAMICA**
+
+* **570408 – ECONOMIA REGIONAL**
+  equivalencia otorgada por **4780 – ECONOMIA REGIONAL Y URBANA**
+
+* **570409 – FILOSOFIA POLITICA Y SOCIAL PARA ECONOMISTAS**
+  equivalencia otorgada por **4547 – FILOSOFIA**
+
+* **570410 – HISTORIA ECONOMICA MUNDIAL**
+  equivalencia otorgada por **4749 – HISTORIA ECONOMICA II**
+
+* **570411 – MACROFINANZAS**
+  equivalencia otorgada por **4783 – ECONOMIA Y TECNICA BURSATIL**
+
+* **570412 – TEORIA DE JUEGOS**
+  equivalencia otorgada por **4788 – TEORIA DE JUEGOS Y ECONOMIA DE LA INFORMACION**
+
+* **570413 – TOPICOS AVANZADOS DE EVALUACION SOCIOECONOMICA DE PROYECTOS**
+  equivalencia otorgada por **4743 – ANALISIS ECONOMICO DE PROYECTOS II**
+
+* **AFS – Certifica Actividad Física Saludable**
+  equivalencia otorgada por **4140 – PRACTICA DE ACTIVIDAD FISICA SALUDABLE**
+
+* **PSE – Certifica Práctica Socioeducativa**
+  equivalencia otorgada por **4446 – PRACTICA SOCIOEDUCATIVA**
+
+* **ING - Certifica Inglés**
+  equivalencia otorgada por **4247 - INGLES I y 4248 - INGLES II o 4349 INGLES III* 	
+
+
+equivalencias parciales
+* **510403 - SISTEMAS INTEGRADOS DE INFORMACION**
+ equivalencia parcial por **APROBADA:4144 - FUNDAMENTOS DE CONTABILIDAD, debe rendir los temas complementarios de TECNOLOGIA DE INFORMACION II y ESTADOS CONTABLES **
+
+* **510406 - DERECHO PARA ECONOMISTAS**
+ Equivalencia parcial  por **APROBADA:4143 - DERECHO PUBLICO I,  deberá rendir los temas complementarios de INTRODUCCION AL DERECHO PRIVADO**
+
+## Actividades Plan LE19 que No otorgan Equivalencia en Actividad alguna del Plan LE26
+
+* **4147 TECNOLOGIA DE INFORMACION I**
+* **4240 TECNOLOGIA DE INFORMACION II**
+* **4545 METODOLOGIA DE INVESTIGACION**
+* **4744 ANALISIS DE SERIES DE TIEMPO**
+* **4784 FINANZAS DE EMPRESAS** 
+* **4782 ORGANIZACION INDUSTRIAL II**
+
+## Actividades de plan LE26 que No puede ser otorgada por alguna Actividad de plan LE19
+
+* **520405 FINANZAS Y MERCADO DE CAPITALES**
+

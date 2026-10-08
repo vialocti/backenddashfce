@@ -1,0 +1,121 @@
+### Carrera: Contador Público
+
+### Plan origen: **CPN98** → Plan destino: **CP26**
+
+## Regimen para Aprobadas y/o Regularidad.
+
+## Equivalencias Total.
+
+* **510201 – DERECHO PÚBLICO**
+  equivalencia otorgada por **3121 – DERECHO PÚBLICO**
+
+* **510202 – SISTEMAS Y TECNOLOGÍAS DE INFORMACIÓN I**
+  equivalencia otorgada por **3127 – COMPUTACIÓN**
+
+* **510203 – INTRODUCCIÓN A LA ECONOMÍA**
+  equivalencia otorgada por **3123 – INTRODUCCIÓN A LA ECONOMÍA I**
+
+* **510204 – COMPORTAMIENTO ORGANIZACIONAL**
+  equivalencia otorgada por **3227 – COMPORTAMIENTO ORGANIZACIONAL**
+
+* **510205 – ADMINISTRACIÓN**
+  equivalencia otorgada por **3222 – ELEMENTOS DE ADMINISTRACIÓN (Funciones)**
+  
+* **510206 – MATEMÁTICA APLICADA A LA GESTIÓN CONTABLE**
+  equivalencia otorgada por **3122 - CALCULO I y 3228 - INTRODUCCION AL ALGEBRA LINEAL (C)** 
+
+* **510207 – FUNDAMENTOS DE CONTABILIDAD**
+  equivalencia otorgada por **3124 – CONTABILIDAD BÁSICA**
+
+* **520201 – CONTABILIDAD INTERMEDIA**
+  equivalencia otorgada por **3124 – CONTABILIDAD BÁSICA**
+
+* **520202 – RÉGIMEN DEL TRABAJO Y SEGURIDAD SOCIAL**
+  equivalencia otorgada por **3225 – DERECHO LABORAL Y ADMINISTRACIÓN DE PERSONAL**
+
+* **520203 – ESTADÍSTICA**
+  equivalencia otorgada por **3226 – ESTADÍSTICA**
+
+* **520204 – FILOSOFÍA Y ÉTICA**
+  equivalencia otorgada por **3224 – INTRODUCCIÓN A LA FILOSOFÍA SOCIAL Y POLÍTICA**
+    
+* **520205 – DERECHO CIVIL Y COMERCIAL**
+  equivalencia otorgada por **3125 - DERECHO PRIVADO I y 3326 - DERECHO PRIVADO III**
+
+* **520206 – CONTABILIDAD DE COSTOS**
+  equivalencia otorgada por **3221 – CONTABILIDAD DE COSTO**
+
+* **520207 – MACROECONOMÍA**
+  equivalencia otorgada por **3126 – INTRODUCCIÓN A LA ECONOMÍA II**
+
+* **520208 – MATEMÁTICA FINANCIERA**
+  equivalencia otorgada por **3323 – MATEMÁTICA FINANCIERA**
+
+* **530201 – CONTABILIDAD SUPERIOR**
+  equivalencia otorgada por **3324 – CONTABILIDAD SUPERIOR**
+
+* **530202 – SISTEMAS Y TECNOLOGÍAS DE INFORMACIÓN II**
+  equivalencia otorgada por **3321 – SISTEMAS ADMINISTRATIVOS DE INFORMACIÓN CONTABLE**
+
+* **530203 – DERECHO SOCIETARIO**
+  equivalencia otorgada por **3223 – DERECHO PRIVADO II**
+
+* **530204 – COSTOS PARA LA GESTIÓN**
+  equivalencia otorgada por **3426 – COSTOS PARA LA GESTIÓN**
+
+* **530205 – CONTABILIDAD AVANZADA**
+  equivalencia otorgada por **3421 – CONTABILIDAD AVANZADA**
+
+* **530206 – TEORÍA Y TÉCNICA IMPOSITIVA I**
+  equivalencia otorgada por **3422 – TEORÍA Y TÉCNICA IMPOSITIVA I**
+
+* **530207 – DERECHO SUCESORIO**
+  equivalencia otorgada por **3325 – DERECHO SUCESORIO**
+
+* **540201 – TEORÍA Y TÉCNICA IMPOSITIVA II**
+  equivalencia otorgada por **3425 – TEORÍA Y TÉCNICA IMPOSITIVA II**
+  
+* **540202 – CONTROL ESTRATÉGICO Y GESTIÓN FINANCIERA**
+  equivalencia otorgada por **3525 - ADMINISTRACION FINANCIERA y 3529 - CONTROL DE GESTION**
+
+* **540203 – AUDITORÍA**
+  equivalencia otorgada por **3521 – AUDITORÍA**
+
+* **540204 – DERECHO CONCURSAL**
+  equivalencia otorgada por **3424 – DERECHO CONCURSAL**
+    
+* **540205 – TRABAJO FINAL INTEGRADOR**
+  equivalencia otorgada por **3428 - METODOLOGIA Y TRABAJO DE INVESTIGACION y 3528 - PRACTICA LABORAL**
+
+* **540206 – ADMINISTRACIÓN FINANCIERA DEL SECTOR PÚBLICO**
+  equivalencia otorgada por **3522 – ADMINISTRACIÓN Y CONTABILIDAD EN LA HACIENDA PÚBLICA**
+
+* **540207 – PRÁCTICA PROFESIONAL**
+  equivalencia otorgada por **3526 – ACTUACIÓN PROFESIONAL**
+
+* **570202 – OPERATORIA DE COMERCIO EXTERIOR**
+  equivalencia otorgada por **3427 – OPERATORIA DE COMERCIO EXTERIOR (C)**
+
+* **570203 – SEGURIDAD DE SISTEMAS DE INFORMACIÓN**
+  equivalencia otorgada por **3527 – AUDITORÍA OPERATIVA Y DE SISTEMAS COMPUTARIZADOS**
+
+* **570204 – FINANZAS PÚBLICAS**
+  equivalencia otorgada por **3322 – FINANZAS PÚBLICAS**
+    
+* **ING - Certifica Inglés**
+ equivalencia otorgada por **3229 - INGLES TECNICO I y 3327 - INGLES TECNICO II* 
+ 
+## Actividades Plan CPN98 que No otorgan Equivalencia en Actividad alguna del Plan CP26
+
+## Actividades de plan CP26 que no puede ser otorgada por alguna Actividad del plan CPN98
+ 
+ * **570205 CONTABILIDAD INTERNACIONAL**  
+ * **570201 TALLER DE INTEGRACIÓN SI/TI** 
+ * **520209 PRÁCTICA LABORAL I**
+ * **PSE Certifica la Práctica Socioeducativa**
+ * **AFS Certifica la Actividad Física Saludable**
+ 
+
+  
+
+

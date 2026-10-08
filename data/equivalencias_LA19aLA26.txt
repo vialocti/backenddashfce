@@ -1,0 +1,215 @@
+### Licenciatura en Administración
+
+### Plan origen: **LA19** → Plan destino: **LA26**
+
+## Regimen para Aprobadas y/o Regularidad.
+
+## Equivalencias Total
+
+* **510301 - SISTEMAS INTEGRADOS DE INFORMACIÓN **
+   equivalencia otorgada por **4134 - FUNDAMENTOS DE CONTABILIDAD, 4233 - ESTADOS CONTABLES y 4230 - TECNOLOGIA DE INFORMACION II**
+   
+* **510302 – PRINCIPIOS Y APLICACIONES DE ADMINISTRACIÓN**
+   equivalencia otorgada por **4133 – ADMINISTRACIÓN I**
+
+* **510303 – PRINCIPIOS DE MICRO Y MACROECONOMÍA**
+   equivalencia otorgada por **4132 – INTRODUCCIÓN A ECONOMÍA**
+
+* **510304 - MATEMÁTICA APLICADA A LA ADMINISTRACIÓN**
+   equivalencia otorgada por **4131 - MATEMATICA I y 4139 - MATEMATICA II**
+
+* **510305 – DERECHO PRIVADO**
+   equivalencia otorgada por **4135 – INTRODUCCIÓN A DERECHO PRIVADO**
+
+* **510306 – FUNDAMENTOS DE MARKETING**
+   equivalencia otorgada por **4232 – COMERCIALIZACIÓN I**
+
+* **510307 – ADMINISTRACIÓN DE PERSONAS**
+   equivalencia otorgada por **4431 – ADMINISTRACIÓN DE PERSONAL**
+
+* **520301 – ADMINISTRACIÓN: ESTRUCTURAS Y ESTRATEGIAS**
+   equivalencia otorgada por **4331 – ADMINISTRACIÓN II**
+
+* **520302 – COSTOS PARA DECISIONES**
+   equivalencia otorgada por **4231 – COSTOS PARA DECISIONES**
+
+* **520303 – ESTADÍSTICA APLICADA A LA ADMINISTRACIÓN**
+   equivalencia otorgada por **4261 – ESTADÍSTICA I**
+
+* **520304 - DERECHO CONSTITUCIONAL Y ADMINISTRATIVO**
+   equivalencia otorgada por **4136 - DERECHO PUBLICO I y 4333 - DERECHO PUBLICO II**
+
+* **520305 - ADMINISTRACION FINANCIERA I**
+   equivalencia otorgada por **4235 - ADMINISTRACION FINANCIERA I y 4233 - ESTADOS CONTABLES**
+
+* **520306 – ADMINISTRACIÓN DE OPERACIONES**
+   equivalencia otorgada por **4236 – ADMINISTRACIÓN DE OPERACIONES I**
+
+* **520307 – RÉGIMEN IMPOSITIVO**
+   equivalencia otorgada por **4339 – RÉGIMEN IMPOSITIVO**
+
+* **520308 – MATEMÁTICA FINANCIERA**
+   equivalencia otorgada por **4334 – MATEMÁTICA FINANCIERA**
+
+* **520309 – PRÁCTICA LABORAL**
+   equivalencia otorgada por **4430 – PRÁCTICA DE TRABAJO**
+
+* **530301 – INVESTIGACIÓN DE MERCADOS**
+   equivalencia otorgada por **4437 – INVESTIGACIÓN DE MERCADO**
+
+* **530302 – MACROECONOMÍA**
+   equivalencia otorgada por **4434 – MACROECONOMÍA**
+
+* **530303 – DERECHO LABORAL PARA ADMINISTRACIÓN DE PERSONAS**
+   equivalencia otorgada por **4336 – DERECHO LABORAL**
+
+* **530304 – ADMINISTRACIÓN DEL SECTOR PÚBLICO**
+   equivalencia otorgada por **4435 – ADMINISTRACIÓN DEL SECTOR PÚBLICO**
+
+* **530305 – DISEÑO Y GESTIÓN DE ORGANIZACIONES**
+   equivalencia otorgada por **4433 – ANÁLISIS ORGANIZACIONAL**
+
+* **530306 – MARKETING ESTRATÉGICO**
+   equivalencia otorgada por **4332 – COMERCIALIZACIÓN II**
+
+* **530307 – COMPORTAMIENTO HUMANO EN LAS ORGANIZACIONES**
+   equivalencia otorgada por **4337 – COMPORTAMIENTO ORGANIZACIONAL**
+
+* **540301 – ADMINISTRACIÓN FINANCIERA II**
+   equivalencia otorgada por **4432 – ADMINISTRACIÓN FINANCIERA II**
+   
+* **540302 - TRABAJO FINAL INTEGRADOR**
+   equivalencia otorgada por **4538 - METODOLOGIA DE INVESTIGACION y 4536 - TESIS FINAL DE GRADO**
+
+* **540304 – ADMINISTRACIÓN ESTRATÉGICA**
+   equivalencia otorgada por **4535 – ESTRATEGIAS DE NEGOCIOS**
+
+* **540305 – PRÁCTICA PROFESIONAL**
+   equivalencia otorgada por **4430 – PRÁCTICA DE TRABAJO**
+
+* **570301 – INVERSIONES FINANCIERAS**
+   equivalencia otorgada por **4768 – INVERSIONES FINANCIERAS**
+
+* **570302 – ADMINISTRACIÓN DE ENTIDADES FINANCIERAS**
+   equivalencia otorgada por **4737 – ADMINISTRACIÓN DE ENTIDADES FINANCIERAS**
+
+* **570303 – ADMINISTRACIÓN DE PROYECTOS**
+   equivalencia otorgada por **4769 – ADMINISTRACIÓN DE PROYECTOS**
+
+* **570304 – NEGOCIACIÓN**
+   equivalencia otorgada por **4738 – NEGOCIACIÓN**
+
+* **570305 – ÉTICA Y NEGOCIOS**
+   equivalencia otorgada por **4530 – ÉTICA Y NEGOCIOS**
+
+* **570306 – COMUNICACIÓN PUBLICITARIA**
+   equivalencia otorgada por **4767 – PUBLICIDAD Y PROMOCIÓN**
+
+* **570307 – MARKETING DIGITAL**
+   equivalencia otorgada por **4765 – COMERCIALIZACIÓN DIGITAL**
+
+* **570308 – OPERATORIA DE COMERCIO EXTERIOR**
+   equivalencia otorgada por **4723 – OPERATORIA DE COMERCIO EXTERIOR**
+
+* **570309 – ADMINISTRACIÓN DE CAPACITACIÓN Y COMPENSACIONES**
+   equivalencia otorgada por **4766 – ADMINISTRACIÓN DE CAPACITACIÓN Y COMPENSACIONES**
+
+* **570310 – ADMINISTRACIÓN DEL CAMBIO**
+   equivalencia otorgada por **4734 – ADMINISTRACIÓN DEL CAMBIO**
+
+* **570312 – GESTIÓN DE LA CALIDAD**
+   equivalencia otorgada por **4736 – GESTIÓN DE LA CALIDAD**
+
+* **570313 – FILOSOFÍA POLÍTICA Y SOCIAL PARA ADMINISTRADORES**
+   equivalencia otorgada por **4537 – FILOSOFÍA**
+
+* **570314 – FINANZAS DEL SECTOR PÚBLICO**
+   equivalencia otorgada por **4761 – FINANZAS DEL SECTOR PÚBLICO**
+
+* **570315 – ADMINISTRACIÓN DE LA SALUD**
+   equivalencia otorgada por **4762 – ADMINISTRACIÓN DE LA SALUD**
+
+* **570316 – EMPRESAS DE IMPACTO**
+   equivalencia otorgada por **4750 – EMPRESAS DE IMPACTO**
+
+* **570317 – MEDICIÓN DE IMPACTO**
+   equivalencia otorgada por **4751 – MEDICIÓN DE IMPACTO**
+
+* **570318 – NORMATIVA Y DESARROLLO DE ECOSISTEMAS DE IMPACTO**
+   equivalencia otorgada por **4752 – NORMATIVA Y DESARROLLO DE ECOSISTEMAS DE IMPACTO**
+
+* **570319 – ADMINISTRACIÓN ESTRATÉGICA DE OPERACIONES**
+   equivalencia otorgada por **4436 – ADMINISTRACIÓN DE OPERACIONES II**
+
+* **570320 – INVESTIGACIÓN OPERATIVA**
+   equivalencia otorgada por **4439 – INVESTIGACIÓN OPERATIVA**
+
+* **570321 – DERECHO CONCURSAL PARA ADMINISTRADORES**
+   equivalencia otorgada por **4731 – DERECHO CONCURSAL PARA ADMINISTRADORES**
+
+* **AFS – Certifica Actividad Física Saludable**
+   equivalencia otorgada por **4130 – PRÁCTICA DE ACTIVIDAD FÍSICA SALUDABLE**
+
+* **PSE – Certifica Práctica Socioeducativa**
+   equivalencia otorgada por **4330 – PRÁCTICA SOCIOEDUCATIVA**
+   
+* **ING - Certifica Inglés**
+  equivalencia otorgada por **4234 - INGLES I y 4239 - INGLES II* 
+  
+ ##Equivalencias Parciales
+ 
+ * **510301 - SISTEMAS INTEGRADOS DE INFORMACIÓN **
+   equivalencia parcial por **APROBADA:4134 - FUNDAMENTOS DE CONTABILIDAD, debe rendir los contenidos de ESTADOS CONTABLES y de TECNOLOGIA DE INFORMACION II**
+   
+ * **520305 - ADMINISTRACION FINANCIERA I**
+   equivalencia parcial por **APROBADA:4235 - ADMINISTRACION FINANCIERA I,  Debe rendir los temas complementarios de ESTADOS CONTABLES**
+   
+* **510304 - MATEMÁTICA APLICADA A LA ADMINISTRACIÓN**
+   equivalencia parcial por **APROBADA:4131 - MATEMATICA I,  debe rendir los temas correspondientes a MATEMATICA II **
+   
+* **510304 - MATEMÁTICA APLICADA A LA ADMINISTRACIÓN**
+   equivalencia parcial por **APROBADA:4139 - MATEMATICA II,  debe rendir los temas correspondientes a MATEMATICA I**
+   
+* **520304 - DERECHO CONSTITUCIONAL Y ADMINISTRATIVO**
+   equivalencia otorgada por **APROBADA:4136 - DERECHO PUBLICO I,  deberá rendir los temas complementarios de DERECHO PUBLICO II. **
+
+* **540303 - INTELIGENCIA ESTRATÉGICA Y CREACIÓN DE VALOR**
+  equivalencia parcial por **APROBADA:4338 - METODOLOGIA DE LA DECISION, debe rendir los temas complementarios de la nueva materia (INTELIGENCIA ESTRATEGICA) **
+  
+ ## Actividades Plan LA19 que No otorgan Equivalencia en Actividad alguna del Plan LA26
+ 
+ * **4735 ADMINISTRACION DE EMPRESAS FAMILIARES** 
+ * **4764 ADMINISTRACION DEL RIESGO**
+ * **4763 ADMINISTRACION TRIBUTARIA**
+ * **4760 COMERCIALIZACION DE SERVICIOS**
+ * **4739 COMUNICACIONES INTEGRADAS DE LA EMPRESA**
+ * **4730 EMPRENDIMIENTO DE NUEVOS NEGOCIOS**
+ * **4732 NEGOCIOS DIGITALES**
+ * **4733 NEUROCIENCIAS APLICADAS A LA GESTION Y LA ECONOMIA**
+ * **4753 ADMINISTRACIÓN DE ENTIDADES SIN FINES DE LUCRO**
+ * **4137 TECNOLOGIA DE INFORMACION I por si sola**
+ * **4230 TECNOLOGIA DE INFORMACION II por si sola**
+ 
+ ## Actividades de plan LA26 que No puede ser otorgada por alguna Actividad del plan LA19
+
+ * **570311 ADMINISTRACIÓN DE REMUNERACIONES: CASUÍSTICA** 	
+ 
+
+
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
