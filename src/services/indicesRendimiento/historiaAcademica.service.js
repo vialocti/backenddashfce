@@ -47,19 +47,22 @@ function parseHistoriaAcademica(buffer) {
 /**
  * A partir de los registros ya parseados, arma el resumen por materia
  * (intentos, ausencias, si está aprobada, nota final) y las métricas
- * agregadas que alimentan el ISA: progreso, compromiso y capacidad.
+ * agregadas que alimentan el ISA: compromiso y capacidad.
+ *
+ * Se agrupa por código de actividad; el CSV no lo trae, así que ahí cae al nombre.
  */
 function calcularMetricasHistoria(registros) {
   const porMateria = new Map();
 
   for (const r of registros) {
-    if (!porMateria.has(r.materia)) {
-      porMateria.set(r.materia, {
+    const clave = r.codigo ?? r.materia;
+    if (!porMateria.has(clave)) {
+      porMateria.set(clave, {
         materia: r.materia, intentos: 0, ausencias: 0, reprobados: 0,
         aprobada: false, origenAprobacion: null, notaFinal: null,
       });
     }
-    const acumulado = porMateria.get(r.materia);
+    const acumulado = porMateria.get(clave);
     acumulado.intentos += 1;
     if (r.resultado === 'Ausente') acumulado.ausencias += 1;
     if (r.resultado === 'Reprobado') acumulado.reprobados += 1;
@@ -81,6 +84,7 @@ function calcularMetricasHistoria(registros) {
   const materiasReprobadas = resumenPorMateria.filter((m) => m.reprobados > 0).length;
   const materiasAusentes = resumenPorMateria.filter((m) => m.ausencias > 0).length;
   // Discrimina CÓMO se aprobó cada materia (última vía que la aprobó, si hubo más de un intento aprobatorio).
+  const materiasAprobadasExamen = resumenPorMateria.filter((m) => m.aprobada && m.origenAprobacion === 'E').length;
   const materiasPromocionadas = resumenPorMateria.filter((m) => m.aprobada && m.origenAprobacion === 'P').length;
   const materiasPorEquivalencia = resumenPorMateria.filter((m) => m.aprobada && m.origenAprobacion === 'B').length;
 
@@ -89,6 +93,7 @@ function calcularMetricasHistoria(registros) {
   // Cantidad de exámenes rendidos (origen 'E'): a diferencia de materiasAusentes/
   // materiasReprobadas (por materia), esto cuenta cada intento — no colapsa por materia.
   const cantidadExamenes = registros.filter((r) => r.origen === 'E').length;
+  const examenesReprobados = registros.filter((r) => r.origen === 'E' && r.resultado === 'Reprobado').length;
 
   const notasAprobadas = resumenPorMateria
     .filter((m) => m.aprobada && m.notaFinal !== null)
@@ -103,14 +108,15 @@ function calcularMetricasHistoria(registros) {
     materiasPendientes,
     materiasReprobadas,
     materiasAusentes,
+    materiasAprobadasExamen,
     materiasPromocionadas,
     materiasPorEquivalencia,
     nombresPendientes: resumenPorMateria.filter((m) => !m.aprobada).map((m) => m.materia),
     totalIntentos,
     totalAusencias,
     cantidadExamenes,
+    examenesReprobados,
     porcentajeAusencias: Math.round((totalAusencias / totalIntentos) * 1000) / 10,
-    progreso: Math.round((materiasAprobadas / materiasTotales) * 1000) / 10, // 0-100
     compromiso: Math.round((1 - totalAusencias / totalIntentos) * 1000) / 10, // 0-100
     promedioNotasAprobadas: promedioNotasAprobadas !== null ? Math.round(promedioNotasAprobadas * 100) / 100 : null,
   };

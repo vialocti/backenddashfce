@@ -1,29 +1,37 @@
 /**
  * ISA — Índice de Seguimiento Académico (0 a 100).
  *
- * Se compone de hasta 6 sub-índices, cada uno normalizado a 0-100. No todos los
+ * Se compone de hasta 5 sub-índices, cada uno normalizado a 0-100. No todos los
  * sub-índices están siempre disponibles (depende de qué datos se le pasen: solo
  * historia académica, o historia + RAN + inscripción + coef.carrera), así que el
  * motor RENORMALIZA los pesos entre los componentes que sí tienen valor, en vez
  * de asumir 0 para los que faltan (asumir 0 penalizaría injustamente).
  *
  * Componentes:
- *   - progreso     100 × (materias aprobadas / materias intentadas)
+ *   - ritmo        derivado del Coef.Carrera (1.0→100, 2.0→60, 4.0→0, tope en 0).
+ *                  Es el de más peso: mide qué tan al día va la carrera (1 = ideal,
+ *                  1,2 en un plan de 4 años = a este ritmo tarda 4,8).
  *   - compromiso   100 × (1 − ausencias / intentos totales)
  *   - capacidad    promedio de notas obtenidas cuando efectivamente rindió × 10
- *   - ritmo        derivado del Coef.Carrera (1.0→100, 2.0→60, 4.0→0, tope en 0)
  *   - recursadas   100 − min(100, Cant.RAN × 15) — RAN = Rendimiento Académico
  *                  Negativo (año lectivo sin rendir/aprobar el mínimo de 2
  *                  materias), NO cantidad de materias recursadas (son cosas
  *                  distintas; el nombre de la clave quedó de un diseño previo)
  *   - continuidad  100 si sigue inscripto a lo pendiente, 40 si no
+ *
+ * La completud de la carrera (aprobadas / materias del plan) NO es componente:
+ * se guarda y se muestra, pero ya está contenida en el Coef.Carrera, y en crudo
+ * penalizaría a las cohortes recientes. Hasta la v1 existía un componente
+ * "progreso" (100 / coef) que duplicaba el peso del coef; la v2 lo saca y le
+ * pasa su 25% a ritmo.
  */
 
+const VERSION_FORMULA = 'v2';
+
 const PESOS = {
-  progreso: 0.25,
+  ritmo: 0.4,
   compromiso: 0.25,
   capacidad: 0.15,
-  ritmo: 0.15,
   recursadas: 0.1,
   continuidad: 0.1,
 };
@@ -116,6 +124,7 @@ function clasificar(isa, alertaPorComponente) {
 }
 
 export {
+  VERSION_FORMULA,
   PESOS,
   calcularISA,
   scoreDesdeCoefCarrera,

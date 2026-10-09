@@ -60,9 +60,10 @@ async function buscarUniverso({ sedeId = null, anioIngreso = null, propuestaId =
 /**
  * Historia académica transaccional de un alumno EN UNA PROPUESTA puntual,
  * hasta la fecha de corte. Shape esperado por historiaAcademica.service.js:
- * { materia, resultado, nota }, más `origen` y `resultadoCodigo` como datos
- * extra (el motor de scoring actual los ignora, quedan para cuando se los
- * necesite).
+ * { codigo, materia, origen, resultado, nota }, más `resultadoCodigo` como
+ * dato extra, y `fecha`, `tipo` y `notaTexto` (la nota tal cual, que puede no
+ * ser numérica) para el informe por persona. `codigo` (actividad_codigo) es por lo que se agrupa: el nombre
+ * puede repetirse entre actividades distintas o cambiar entre planes.
  *
  * Fuente: vw_hist_academica (examen, promoción y equivalencia; incluye
  * ausentes):
@@ -92,10 +93,14 @@ async function obtenerHistoriaAcademica(legajo, propuestaId, fechaCorte) {
     }
 
     const { rows } = await client.query(
-      `SELECT actividad_nombre       AS materia,
+      `SELECT actividad_codigo       AS codigo,
+              actividad_nombre       AS materia,
+              to_char(fecha, 'YYYY-MM-DD') AS fecha,
               origen,
+              tipo,
               resultado               AS "resultadoCodigo",
               resultado_descripcion  AS resultado,
+              nota                   AS "notaTexto",
               CASE WHEN nota ~ '^[0-9]+([.,][0-9]+)?$'
                    THEN replace(nota, ',', '.')::numeric END AS nota
        FROM vw_hist_academica
@@ -106,6 +111,53 @@ async function obtenerHistoriaAcademica(legajo, propuestaId, fechaCorte) {
     );
     // pg devuelve numeric como string; el motor promedia notas
     return rows.map((r) => ({ ...r, nota: r.nota === null ? null : Number(r.nota) }));
+  } finally {
+    await client.query('RESET search_path').catch(() => {});
+    client.release();
+  }
+}
+
+/**
+ * Regularidades (cursadas) de un alumno EN UNA PROPUESTA puntual, hasta la
+ * fecha de corte, en orden cronológico. Es dato para el informe por persona:
+ * el motor del ISA no las usa.
+ *
+ * Fuente: vw_regularidades (origen siempre 'R'):
+ *   - resultado (código): 'A' regularizó | 'R' no regularizó | 'U' ausente
+ *     (resultado_descripcion trae la palabra: 'Aprobado' | 'Reprobado' | 'Ausente').
+ * Mismo shape de claves que obtenerHistoriaAcademica, más `alumno`.
+ *
+ * Igual que vw_hist_academica: la vista necesita search_path y se filtra por
+ * `alumno` para que Postgres empuje el filtro dentro de la vista.
+ */
+async function obtenerRegularidades(legajo, propuestaId, fechaCorte) {
+  const client = await coneccionDB.connect();
+  try {
+    await client.query(`SET search_path = ${ESQUEMA}, public`);
+
+    const { rows: alumnos } = await client.query(
+      `SELECT alumno FROM sga_alumnos WHERE legajo = $1 AND propuesta = $2`,
+      [legajo, propuestaId]
+    );
+    if (alumnos.length === 0) {
+      throw new Error(`No se encontró alumno para legajo=${legajo}, propuestaId=${propuestaId}`);
+    }
+
+    const { rows } = await client.query(
+      `SELECT alumno,
+              to_char(fecha, 'YYYY-MM-DD') AS fecha,
+              actividad_codigo       AS codigo,
+              actividad_nombre       AS materia,
+              origen,
+              resultado               AS "resultadoCodigo",
+              resultado_descripcion  AS resultado
+       FROM vw_regularidades
+       WHERE alumno = ANY($1::int[])
+         AND fecha <= $2
+       ORDER BY fecha`,
+      [alumnos.map((a) => a.alumno), fechaCorte]
+    );
+    return rows;
   } finally {
     await client.query('RESET search_path').catch(() => {});
     client.release();
@@ -237,6 +289,7 @@ async function obtenerPropuesta(propuestaId, legajo = null) {
 export {
   buscarUniverso,
   obtenerHistoriaAcademica,
+  obtenerRegularidades,
   obtenerContextoInscripcion,
   obtenerPropuesta,
 };

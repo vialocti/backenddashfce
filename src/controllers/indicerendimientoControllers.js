@@ -1,5 +1,6 @@
 import { procesarGrupo } from '../services/indicesRendimiento/rendimientoOrquestador.service.js'
 import { buscarRendimiento } from '../services/indicesRendimiento/rendimiento.repository.js'
+import { obtenerHistoriaAcademica, obtenerRegularidades } from '../adapters/sistemaAcademico.adapter.js'
 
 function parseIntOrNull(value) {
   if (value === undefined || value === null || value === '') return null;
@@ -49,6 +50,7 @@ async function procesarGrupoController(req, res, next) {
 /**
  * GET /indices-rendimiento
  * query: sedeId?, anioIngreso?, propuestaId?, legajo?, clasificacion?,
+ *        persona? (legajo o documento exactos, o parte del apellido),
  *        historico? ("true" para traer todas las corridas, no solo la última),
  *        limit?, offset?
  *
@@ -56,7 +58,7 @@ async function procesarGrupoController(req, res, next) {
  */
 async function consultarRendimientoController(req, res, next) {
   try {
-    const { sedeId, anioIngreso, propuestaId, legajo, clasificacion, historico, limit, offset } = req.query || {};
+    const { sedeId, anioIngreso, propuestaId, legajo, clasificacion, persona, historico, limit, offset } = req.query || {};
 
     const filas = await buscarRendimiento({
       sedeId: parseIntOrNull(sedeId),
@@ -64,6 +66,7 @@ async function consultarRendimientoController(req, res, next) {
       propuestaId: parseIntOrNull(propuestaId),
       legajo: legajo || null,
       clasificacion: clasificacion || null,
+      persona: persona ? String(persona).trim() || null : null,
       historico: historico === 'true',
       limit: parseIntOrNull(limit) || 200,
       offset: parseIntOrNull(offset) || 0,
@@ -75,4 +78,59 @@ async function consultarRendimientoController(req, res, next) {
   }
 }
 
-export { procesarGrupoController, consultarRendimientoController };
+/**
+ * GET /indices-rendimiento/historia-academica
+ * query: legajo, propuestaId, hasta? (YYYY-MM-DD; por defecto hoy)
+ *
+ * Historia académica de un alumno en una propuesta (exámenes, promociones y
+ * equivalencias), en orden cronológico. Es la misma fuente que usa el cálculo
+ * del ISA; acá no se calcula nada.
+ */
+async function historiaAcademicaController(req, res, next) {
+  try {
+    const { legajo, propuestaId, hasta } = req.query || {};
+    const propuesta = parseIntOrNull(propuestaId);
+    if (!legajo || propuesta === null) {
+      return res.status(400).json({ error: 'Faltan legajo y propuestaId.' });
+    }
+
+    const fechaCorte = hasta || new Date().toISOString().slice(0, 10);
+    const registros = await obtenerHistoriaAcademica(String(legajo), propuesta, fechaCorte);
+
+    res.json({ total: registros.length, hasta: fechaCorte, registros });
+  } catch (err) {
+    if (/^No se encontró alumno/.test(err.message)) {
+      return res.status(404).json({ error: err.message });
+    }
+    next(err);
+  }
+}
+
+/**
+ * GET /indices-rendimiento/regularidades
+ * query: legajo, propuestaId, hasta? (YYYY-MM-DD; por defecto hoy)
+ *
+ * Regularidades (cursadas) de un alumno en una propuesta, en orden
+ * cronológico, para el informe de rendimiento por persona.
+ */
+async function regularidadesController(req, res, next) {
+  try {
+    const { legajo, propuestaId, hasta } = req.query || {};
+    const propuesta = parseIntOrNull(propuestaId);
+    if (!legajo || propuesta === null) {
+      return res.status(400).json({ error: 'Faltan legajo y propuestaId.' });
+    }
+
+    const fechaCorte = hasta || new Date().toISOString().slice(0, 10);
+    const registros = await obtenerRegularidades(String(legajo), propuesta, fechaCorte);
+
+    res.json({ total: registros.length, hasta: fechaCorte, registros });
+  } catch (err) {
+    if (/^No se encontró alumno/.test(err.message)) {
+      return res.status(404).json({ error: err.message });
+    }
+    next(err);
+  }
+}
+
+export { procesarGrupoController, consultarRendimientoController, historiaAcademicaController, regularidadesController };

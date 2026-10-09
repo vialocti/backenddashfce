@@ -1,6 +1,6 @@
 import * as adaptador from '../../adapters/sistemaAcademico.adapter.js'
 import { calcularMetricasHistoria } from './historiaAcademica.service.js'
-import { calcularISA, scoreDesdeCoefCarrera, scoreDesdeRecursadas, scoreDesdeRegularidad, PESOS } from './scoring.service.js'
+import { calcularISA, scoreDesdeCoefCarrera, scoreDesdeRecursadas, scoreDesdeRegularidad, PESOS, VERSION_FORMULA } from './scoring.service.js'
 import { derivarCoefCarrera } from './coefCarrera.util.js'
 import { guardarRendimiento } from './rendimiento.repository.js'
 
@@ -24,31 +24,39 @@ async function calcularRendimientoParPropuesta({ legajo, propuestaId, fechaAnali
     promedioSinAplazos,
   } = contexto;
 
+  // El plan se necesita siempre (completud y duración proyectada). Si el alumno no
+  // tiene plan resoluble, esos datos quedan en null en vez de descartar al alumno.
+  const { duracionIdealAnios, materiasTotalesPlan } = await adaptador
+    .obtenerPropuesta(propuestaId, legajo)
+    .catch(() => ({ duracionIdealAnios: null, materiasTotalesPlan: null }));
+
   let coefCarrera = coefCarreraProvisto;
   if (coefCarrera === null || coefCarrera === undefined) {
-    const propuesta = await adaptador.obtenerPropuesta(propuestaId, legajo);
     coefCarrera = derivarCoefCarrera({
-      fechaAnalisis, anioIngreso,
-      duracionIdealAnios: propuesta.duracionIdealAnios,
+      fechaAnalisis, anioIngreso, duracionIdealAnios,
       materiasAprobadas: metricas.materiasAprobadas,
-      materiasTotalesPlan: propuesta.materiasTotalesPlan,
+      materiasTotalesPlan,
     });
   }
 
-  // progreso: el % completado en crudo (fce_per.alumnos_info.completado) NO sirve solo —
-  // el mismo 15% de avance es buen progreso a los 2 años y mal progreso a los 4. Lo que
-  // realmente contextualiza eso es coef_tcarrera (avance ideal esperado / avance real para
-  // los años transcurridos): coef=1 → 100% de progreso, coef=2 → a este ritmo tardás el
-  // doble de lo ideal → 50%, etc. Si no hay coefCarrera (ni provisto ni derivable), cae a
-  // la tasa de éxito de la historia académica (aprobadas/intentadas).
-  const progreso = coefCarrera ? Math.min(100, Math.round((100 / coefCarrera) * 10) / 10) : metricas.progreso;
+  // completud: % de la carrera cumplido (aprobadas / materias del plan), con tope en 100
+  // porque la historia puede traer aprobadas de más (cambios de plan o de carrera). Es
+  // solo informativa: el mismo 15% es buen avance a los 2 años y malo a los 4, y eso ya
+  // lo contextualiza el Coef.Carrera — ver scoring.service.js.
+  const completud = materiasTotalesPlan
+    ? Math.min(100, Math.round((metricas.materiasAprobadas / materiasTotalesPlan) * 1000) / 10)
+    : null;
+
+  // Coef.Carrera = 1 es ir al día; 1,2 en un plan de 4 años proyecta 4,8 años.
+  const duracionProyectadaAnios = coefCarrera && duracionIdealAnios
+    ? Math.round(coefCarrera * duracionIdealAnios * 10) / 10
+    : null;
 
   // capacidad: preferimos el promedio sin aplazos de alumnos_info (más representativo
   // de la capacidad real) sobre el promedio de aprobadas de la historia académica.
   const promedioParaCapacidad = promedioSinAplazos ?? metricas.promedioNotasAprobadas;
 
   const subScores = {
-    progreso,
     compromiso: metricas.compromiso,
     capacidad: promedioParaCapacidad !== null ? promedioParaCapacidad * 10 : null,
     ritmo: scoreDesdeCoefCarrera(coefCarrera),
@@ -65,14 +73,17 @@ async function calcularRendimientoParPropuesta({ legajo, propuestaId, fechaAnali
     materiasPendientes: metricas.materiasPendientes,
     materiasReprobadas: metricas.materiasReprobadas,
     materiasAusentes: metricas.materiasAusentes,
+    materiasAprobadasExamen: metricas.materiasAprobadasExamen,
     materiasPromocionadas: metricas.materiasPromocionadas,
     materiasPorEquivalencia: metricas.materiasPorEquivalencia,
     cantidadExamenes: metricas.cantidadExamenes,
+    examenesReprobados: metricas.examenesReprobados,
+    materiasPlan: materiasTotalesPlan, completud,
+    duracionPlanAnios: duracionIdealAnios, duracionProyectadaAnios,
     totalIntentos: metricas.totalIntentos,
     totalAusencias: metricas.totalAusencias,
     promedioNotas: promedioParaCapacidad,
     coefCarrera, cantRan, regVig,
-    scoreProgreso: resultado.desglose.progreso?.valor ?? null,
     scoreCompromiso: resultado.desglose.compromiso?.valor ?? null,
     scoreCapacidad: resultado.desglose.capacidad?.valor ?? null,
     scoreRitmo: resultado.desglose.ritmo?.valor ?? null,
@@ -82,6 +93,7 @@ async function calcularRendimientoParPropuesta({ legajo, propuestaId, fechaAnali
     clasificacion: resultado.clasificacion,
     alertaPorComponente: resultado.alertaPorComponente,
     pesosUsados: PESOS,
+    versionFormula: VERSION_FORMULA,
     desglose: resultado.desglose,
     origenCalculo: 'batch',
   });
